@@ -6,8 +6,8 @@ Supplementary material for Chapter 2 of the thesis (systematic review).
 
 | File | Content |
 |------|---------|
-| [Supplementary Table A Extracted Data.xlsx](Supplementary%20Table%20A%20Extracted%20Data.xlsx) | Supplementary Table A: Extracted Data |
-| [Supplementary Table B Factor List.xlsx](Supplementary%20Table%20B%20Factor%20List.xlsx) | Supplementary Table B: Factor List |
+| [Supplementary Table A Extracted data.xlsx](Supplementary%20Table%20A%20Extracted%20data.xlsx) | Supplementary Table A: Extracted Data |
+| [Supplementary Table B Factor list.xlsx](Supplementary%20Table%20B%20Factor%20list.xlsx) | Supplementary Table B: Factor List |
 
 ## Supplementary Table A: Extracted Data
 
